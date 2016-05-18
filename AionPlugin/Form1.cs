@@ -16,9 +16,9 @@ namespace AionPlugin
     {
 
         //hardcoded config todo better.
-        static string aionPath = "C:\\AionPath";
+        static string aionPath = "D:\\Games\\GameforgeLive\\Games\\GBR_eng\\AION\\Download";
         static string aionLog = "Chat.log";
-        static string playerName = "CharacterName";
+        static string playerName = "Shakku";
         static string chatLog = Path.Combine(aionPath, aionLog);
 
         //event raiser method when chat.log is modified
